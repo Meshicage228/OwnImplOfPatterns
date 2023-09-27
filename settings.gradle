@@ -4,4 +4,5 @@ include 'iterator'
 include 'observer'
 include 'prototype'
 include 'singletonAndBuilder'
+include 'fabric'
 
