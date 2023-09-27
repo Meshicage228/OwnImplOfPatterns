@@ -5,4 +5,5 @@ include 'observer'
 include 'prototype'
 include 'singletonAndBuilder'
 include 'fabric'
+include 'chainOfCommand'
 
