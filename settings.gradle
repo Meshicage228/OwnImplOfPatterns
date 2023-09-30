@@ -6,4 +6,5 @@ include 'prototype'
 include 'singletonAndBuilder'
 include 'fabric'
 include 'chainOfCommand'
+include 'decorator'
 
