@@ -7,4 +7,5 @@ include 'singletonAndBuilder'
 include 'fabric'
 include 'chainOfCommand'
 include 'decorator'
+include 'templateMethod'
 
